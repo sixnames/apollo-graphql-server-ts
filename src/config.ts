@@ -1,0 +1,2 @@
+//SUBSCRIPTIONS
+export const CARD_CREATED = 'CARD_CREATED';
